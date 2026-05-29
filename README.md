@@ -36,7 +36,3 @@ Default values are:
 
 You can adjust these parameters based on your needs, and the script will automatically use the default values if no arguments are specified..
 
-[^1]: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, 
-*Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros*](https://arxiv.org/abs/1703.10593)
-
-[^2]: [Pytorch implementation by original authors](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/)
